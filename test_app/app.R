@@ -1,6 +1,6 @@
 library(shiny)
 ui <- fluidPage(
-  "Hello, world!"
+  "Hello, world! This is a test at the auto updating feature"
 )
 server <- function(input, output, session) {
 }
